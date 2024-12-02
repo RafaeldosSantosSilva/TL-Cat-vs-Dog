@@ -10,11 +10,8 @@ Este projeto implementa um modelo de classificação binária para diferenciar i
 2. [Conjunto de Dados](#conjunto-de-dados)
 3. [Estrutura do Projeto](#estrutura-do-projeto)
 4. [Dependências](#dependências)
-5. [Passos para Executar o Projeto](#passos-para-executar-o-projeto)
-6. [Arquitetura do Modelo](#arquitetura-do-modelo)
-7. [Resultados](#resultados)
-8. [Contribuições](#contribuições)
-9. [Licença](#licença)
+
+
 
 ---
 
@@ -83,3 +80,5 @@ Instale todas as dependências utilizando:
 
 ```bash
 pip install tensorflow matplotlib numpy pandas requests
+
+
